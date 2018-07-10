@@ -6,5 +6,5 @@ implementation of some graph algorithms
 mkdir build
 cd build
 cmake ..
-make && ./some_exe
+make && ./some_exec
 ```
